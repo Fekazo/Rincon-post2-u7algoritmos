@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,retrieval/bench/RangeBenchmark.fenwickQuery
+inline,retrieval/bench/RangeBenchmark.fenwickUpdate
+inline,retrieval/bench/RangeBenchmark.segTreeQuery
+inline,retrieval/bench/RangeBenchmark.segTreeUpdate
+inline,retrieval/bench/RangeBenchmark.setup
+inline,retrieval/bench/RangeBenchmark.sparseTableQuery
